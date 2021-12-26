@@ -1,0 +1,4 @@
+Adding some extra text to practice commits through the terminal
+Hello
+Git
+Odin
